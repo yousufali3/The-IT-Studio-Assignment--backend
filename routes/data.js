@@ -142,7 +142,7 @@ router.post("/send", async (req, res) => {
 
   let mailOptions = {
     from: "y78123685@gmail.com",
-    to: "info@redpositive.in",
+    to: "yousufali839203@gmail.com",
     subject: "Selected Data ",
     text: formattedData,
   };
